@@ -4,8 +4,9 @@ import HeadLinks from "@/components/HeadLinks";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Frisk - Creative Agency & Portfolio HTML Template",
-  description: "Frisk - Creative Agency & Portfolio HTML Template",
+  title: "RaomTech – Web & App Development Agency",
+  description: "RaomTech is a professional agency delivering modern website development, mobile app development, and complete digital solutions."
+  
 };
 
 export default function RootLayout({
