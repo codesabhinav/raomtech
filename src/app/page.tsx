@@ -184,8 +184,7 @@ export default function Home() {
                 <div key={index} className="col-lg-4 col-md-6">
                   <div className="demo-item">
                     <div className="demo-img">
-                      {/* <a href={demo.url} target="_blank" rel="noopener noreferrer"> */}
-                        {/* {demo.badge && <div className="new-demo">{demo.badge}</div>} */}
+                    
                         <img src={`/Frisk - Creative Agency & Portfolio HTML Template_files/${demo.img}`} alt="img" />
                       {/* </a> */}
                     </div>
