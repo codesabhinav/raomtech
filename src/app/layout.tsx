@@ -6,7 +6,6 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "RaomTech – Web & App Development Agency",
   description: "RaomTech is a professional agency delivering modern website development, mobile app development, and complete digital solutions."
-  
 };
 
 export default function RootLayout({
