@@ -1,5 +1,8 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+const nextConfig = {
+  // Ensure proper build output
+  // Remove standalone if it causes issues
+}
 
 module.exports = nextConfig
 
