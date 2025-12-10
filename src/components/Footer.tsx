@@ -5,7 +5,6 @@ import { Mail, Phone, MapPin } from 'lucide-react';
 export default function Footer() {
   return (
     <>
-    
       <footer className="footer-area" style={{ background: '#1a1a1a', color: '#fff', padding: '60px 0 30px' }}>
         <div className="container">
           <div className="row">
